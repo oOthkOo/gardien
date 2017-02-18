@@ -49,6 +49,6 @@ async.series(
 		}
 	],
 	function (err, results) {
-		console.log('allowed: ' + cherubin.isAllowed(userId, ['member'], ['oothkoo:stgzd'], ['view']) )
+		console.log('allowed: ' + cherubin.isAllowed( ['*'], ['*'], ['oothkoo-stgzd'], ['view', 'edit', 'like', 'create'] ) )
 	}
 )
