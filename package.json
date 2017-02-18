@@ -1,13 +1,18 @@
 {
     "name": "gardien",
-    "description": "Gardien ACL System",
-    "version": "0.1.2",
+    "version": "0.1.4",
     "private": false,
     "author": {
         "name": "Tierry Danquin",
         "email": "contact@oothkoo.com",
         "url": "http://www.oothkoo.com"
     },
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/oOthkOo/gardien.git"
+    },
+    "description": "Gardien ACL System",
+    "main": "main.js",
     "keywords": [
         "acl",
         "access control list",
@@ -23,11 +28,10 @@
         "sysadmin",
         "tools"
     ],
-    "main": "main.js",
     "dependencies": {
         "redis": "2.1.0",
         "lodash": "4.17.4",
         "async": "1.4.2"
     },
-    "license": "Free"
+    "license": "MIT"
 }
