@@ -1,0 +1,34 @@
+{
+    "name": "gardien",
+    "version": "0.1.3",
+    "private": false,
+    "author": {
+        "name": "Tierry Danquin",
+        "email": "contact@oothkoo.com",
+        "url": "http://www.oothkoo.com"
+    },
+    "homepage" : "https://github.com/oOthkOo/gardien",
+    "description": "The most simple, flexible and easy to use JavaScript role/access control list (ACL, RBAC) library",
+    "main": "main.js",
+    "keywords": [
+        "acl",
+        "access control list",
+        "access control",
+        "access list",
+        "role based access control",
+        "role based access",
+        "role based",
+        "gardien",
+        "system",
+        "memory",
+        "redis",
+        "sysadmin",
+        "tools"
+    ],
+    "dependencies": {
+        "redis": "2.1.0",
+        "lodash": "4.17.4",
+        "async": "1.4.2"
+    },
+    "license": "MIT"
+}
