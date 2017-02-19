@@ -1,9 +1,9 @@
-# Gardien
+# Gardien [![SlugBay Badge](https://www.slugbay.com/pictures/badges/slugbay-simple.svg)](https://www.slugbay.com)
 
 [![NPM](https://nodei.co/npm/gardien.png?downloads=true)](https://nodei.co/npm/gardien/) [![NPM](https://nodei.co/npm-dl/gardien.png?months=5&height=2)](https://nodei.co/npm/gardien/)
 
 The most **simple, flexible and easy to use** JavaScript role/access control list (**ACL, RBAC**) library.
- 
+
  Features
 -----
  * Support **Users**
@@ -14,7 +14,7 @@ The most **simple, flexible and easy to use** JavaScript role/access control lis
  * Database **agnostic** by drivers you can write
  * **Very low** database memory consumption
  * **Very fast** rules memory checks based on regexes
- 
+
 Installation
 -----
 <h4>NodeJS</h4>
@@ -224,7 +224,7 @@ async.series(
         function (cb) {
             // Retrieve all user (oothkoo) rules
             seraphin.getAllUserRules(userId, function (rules) {
-            
+
                 // Give all rules to our cherubin
                 cherubin.updateRules( rules )
                 console.log('rules', rules)
@@ -263,7 +263,7 @@ Cherubin - API
 -----
  * updateRules (**rules**)
  * isAllowed (**userId, roles, resources, permissions**)
- 
+
 Seraphin - API
 -----
  * createUser (**userId, roles, callback**)
