@@ -34,13 +34,12 @@ Usage in NodeJS
 -----
 <h4>Manage users, roles, rules and permissions from your backend</h4>
 
-
 ```javascript
 var async = require('async')
 var Gardien = require('gardien')
 
 // Memory Driver or...
-//var driver = new g.drivers.MemoryDriver()
+//var driver = new Gardien.drivers.MemoryDriver()
 
 // Redis Driver
 var driver = new Gardien.drivers.RedisDriver({
