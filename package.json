@@ -30,7 +30,7 @@
     ],
     "dependencies": {
         "redis": "2.1.0",
-        "lodash": "4.17.4",
+        "lodash": "4.17.19",
         "async": "1.4.2"
     },
     "license": "MIT"
