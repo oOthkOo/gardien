@@ -1,9 +1,9 @@
 # Gardien [![SlugBay Badge](https://www.slugbay.com/pictures/badges/slugbay-simple.svg)](https://www.slugbay.com)
 
 [![Stars](https://img.shields.io/github/stars/oothkoo/gardien.svg?style=for-the-badge)](https://github.com/oothkoo/gardien)
-[![Latest Stable Version](https://img.shields.io/npm/v/oothkoo/gardien.svg?style=for-the-badge)](https://www.npmjs.com/package/oothkoo/gardien)
-[![NPM Downloads](https://img.shields.io/npm/dt/oothkoo/gardien.svg?style=for-the-badge)](https://www.npmjs.com/package/oothkoo/gardien)
-[![NPM Downloads](https://img.shields.io/npm/dm/oothkoo/gardien.svg?style=for-the-badge)](https://www.npmjs.com/package/oothkoo/gardien)
+[![Latest Stable Version](https://img.shields.io/npm/v/gardien.svg?style=for-the-badge)](https://www.npmjs.com/package/gardien)
+[![NPM Downloads](https://img.shields.io/npm/dt/gardien.svg?style=for-the-badge)](https://www.npmjs.com/package/gardien)
+[![NPM Downloads](https://img.shields.io/npm/dm/gardien.svg?style=for-the-badge)](https://www.npmjs.com/package/gardien)
 
 The most **simple, flexible and easy to use** JavaScript role/access control list (**ACL, RBAC**) library.
 
