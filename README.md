@@ -29,7 +29,7 @@ To install Gardien module from npm repository :
 <h4>Browser</h4>
 To install Gardien in browser, just insert this tag in your html :
 
-```html
+```js
   <script src="cherubin.js" type="text/javascript"></script>
 ```
 
@@ -302,3 +302,14 @@ Seraphin - API
  * disallowUser (**userId, resources, permissions, callback**)
  * allowRole (**role, resources, callback**)
  * disallowRole (**role, resources, callback**)
+```
+
+Donations
+-----
+
+:heart: Donations are always welcome :heart:.
+
+Coins | Symbols | Addresses
+--- | --- | ---
+<img src="https://github.com/oOthkOo/hyper-manager/blob/main/pictures/btc.svg" alt="Bitcoin"/> | BTC | 3B52fbzNFQTaKZxWf5GrCUsASD2UP8na4A
+<img src="https://github.com/oOthkOo/hyper-manager/blob/main/pictures/eth.svg" alt="Ethereum"/> | ETH | 0x1C389f1f85Cdb3C2996b83fAc87E496A80698B7C
