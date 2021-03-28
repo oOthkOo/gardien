@@ -1,6 +1,6 @@
 {
     "name": "gardien",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "private": false,
     "author": {
         "name": "Tierry Danquin",
@@ -11,7 +11,7 @@
         "type": "git",
         "url": "https://github.com/oOthkOo/gardien.git"
     },
-    "description": "Gardien ACL System",
+    "description": "The most simple, flexible and easy to use JavaScript role/access control list (ACL, RBAC) library.",
     "main": "main.js",
     "keywords": [
         "acl",
