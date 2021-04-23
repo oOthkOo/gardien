@@ -302,7 +302,6 @@ Seraphin - API
  * disallowUser (**userId, resources, permissions, callback**)
  * allowRole (**role, resources, callback**)
  * disallowRole (**role, resources, callback**)
-```
 
 Donations
 -----
